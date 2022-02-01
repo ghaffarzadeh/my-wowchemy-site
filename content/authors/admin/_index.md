@@ -37,6 +37,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a research assistant at the University of Tehran.
+I am a research assistant at the  {{< staticref "https://ut.ac.ir" "newtab" >}}University of Tehran{{< /staticref >}}..
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
