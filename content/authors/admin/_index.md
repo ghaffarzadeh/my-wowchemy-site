@@ -1,6 +1,7 @@
 ---
 title: Babak Ghaffarzadeh
 role: Research Assistant
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Game Theory
