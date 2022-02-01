@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Babak Ghaffarzadeh # Website name
 baseurl: 'https://ghaffarzadeh.github.io/' # Website URL
-copyright: ''  '© {2022} Babak Ghaffarzadeh'
+copyright: '© {2022} Babak Ghaffarzadeh'
 
 ############################
 ## LANGUAGE
