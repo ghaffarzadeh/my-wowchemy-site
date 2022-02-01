@@ -29,10 +29,10 @@ education:
   courses:
     - course: MSc in Electrical Engineering - Control
       institution: University of Tehran
-      year: 2016
+      year: 2021
     - course: BSc in Electrical Engineering - Control
       institution: University of Tabriz
-      year: 2015
+      year: 2018
 email: ""
 superuser: true
 highlight_name: true
