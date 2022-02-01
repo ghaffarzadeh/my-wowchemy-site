@@ -18,7 +18,13 @@ social:
     link: https://github.com/ghaffarzadeh
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/babak-g
+    link: https://www.linkedin.com/in/babak-g
+  - display:
+      header: false
+    icon_pack: fab
+    icon: researchgate
+    label: ""
+    link: https://www.researchgate.net/profile/Babak-Ghaffarzadeh-Bakhshayesh-2
 organizations:
   - name: University of Tehran
     url: https://www.snl.ut.ac.ir
