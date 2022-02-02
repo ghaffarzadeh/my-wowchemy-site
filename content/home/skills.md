@@ -23,8 +23,8 @@ feature:
   icon_pack: fas
   name: Python
 - description: 10%
-  icon: camera-retro
-  icon_pack: fas
+  icon: 00-researchareas
+  icon_pack: custom
   name: Optimization
 
 # Uncomment to use emoji icons.
