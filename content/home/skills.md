@@ -23,7 +23,7 @@ feature:
   icon_pack: fas
   name: Python
 - description: 10%
-  icon: 00-researchareas
+  icon: org-gc
   icon_pack: custom
   name: Optimization
 
