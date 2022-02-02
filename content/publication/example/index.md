@@ -51,15 +51,20 @@ title: "Decentralized Equilibrium Seeking of Joint Routing and Destination
   Planning of Electric Vehicles: A Constrained Aggregative Game Approach"
 doi: 10.1109/TITS.2021.3123207
 featured: true
-tags: []
-projects: []
+tags:
+  - Game Theory
+  - Variational Inequality
+categories:
+  - Game Theory
+projects:
+  - Game Theory
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
 date: 2021-11-12T20:30:28.312Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
