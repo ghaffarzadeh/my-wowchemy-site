@@ -4,10 +4,10 @@
 widget: featurette
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
-weight: 150
+weight: 30
 
 title: Skills
 subtitle:
@@ -22,8 +22,7 @@ feature:
 - icon: chart-line
   icon_pack: fas
   name: Python
-- description: 10%
-  icon: 00-researchareas
+- icon: 00-researchareas1
   icon_pack: custom
   name: Optimization
 
