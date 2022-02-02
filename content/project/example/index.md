@@ -1,13 +1,13 @@
 ---
 slides: example
 url_pdf: ""
-title: Sample Project
+title: Example Project
 summary: Summary
 url_video: ""
-date: 2022-02-02T20:43:32.159Z
+date: 2022-02-02T20:52:52.161Z
 external_link: ""
 url_slides: ""
-subtitle: Sample subtitle
+subtitle: Subtitle
 tags:
   - Game Theory
 links:
@@ -20,4 +20,4 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-Content
+Summary
