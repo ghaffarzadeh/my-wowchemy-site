@@ -20,40 +20,26 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: ghaffarzadeh [at] ieee [dot] org
+email:
 phone:
 address:
   street: 
   city:
   region:
   postcode:
-  country: Iran
-  country_code: IR
+  country:
+  country_code:
 coordinates:
   latitude: 
   longitude: 
 directions: 
 office_hours:
-  - 
-  - 
 appointment_url: 
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
   - icon: skype
     icon_pack: fab
     name: Skype Me
     link: 'live:babak.g_2'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 
