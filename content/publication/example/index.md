@@ -59,7 +59,7 @@ categories:
 projects:
   - Game Theory
 image:
-  caption: "Image credit: [**Unsplash**](https://)"
+  caption: ""
   focal_point: ""
   preview_only: false
 date: 2021-11-12T20:30:28.312Z
